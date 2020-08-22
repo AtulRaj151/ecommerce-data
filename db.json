@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "image": "images",
+      "name": "bike"
+    },
+    {
+      "image": "images",
+      "name": "scooter"
+    }
+  ]
+}
