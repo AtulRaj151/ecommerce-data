@@ -5,63 +5,63 @@
       "name": "Sport Shoes",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 110,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-vintage-red-shoes-on-white-background-92008067.jpg",
       "name": "Red SNEAKER",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 91,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-pink-and-black-sport-woman-shoes-isolated-on-white-background-709418083.jpg",
       "name": "Sport Shoes Women",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 94,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-children-s-autumn-or-winter-fashion-boots-isolated-on-white-background-708900334.jpg",
       "name": "Winter boots children",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 143,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-bangkok-thailand-january-onitsuka-tiger-asics-gel-lyte-iii-on-january-in-bangkok-292088969.jpg",
       "name": "Sports shoes Red-White",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 150,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-leather-shoes-isolated-on-white-background-including-clipping-path-216565609.jpg",
       "name": "Black leather shoes",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 250,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-casual-shoes-on-white-background-included-clipping-path-667459072.jpg",
       "name": "Shoes Canvas",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 50,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-white-sneakers-on-white-background-including-clipping-path-1100736923.jpg",
       "name": "Shoes White",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 85,
-      "count": 1
+      "count": 0
     },
     {
       "imgUrl": "https://image.shutterstock.com/z/stock-photo-yellow-sneakers-15066415.jpg",
       "name": "Sneakers Yellow",
       "description": "This is well designed and crafted product that will suit many needs,in terms of quality,craftmanship and aesthetics",
       "price": 125,
-      "count": 1
+      "count": 0
     }
   ]
 }
